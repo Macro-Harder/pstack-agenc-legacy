@@ -1,3 +1,5 @@
+> **Moved:** this repo is archived. The AgenC packaging of pstack now lives in the fork https://github.com/Macro-Harder/pstack-agenc (forked from cursor/plugins), under `pstack-agenc/`.
+
 # pstack for AgenC (unofficial adaptation)
 
 This repo is an **unofficial** repackaging of [pstack](https://github.com/cursor/plugins/tree/main/pstack)
