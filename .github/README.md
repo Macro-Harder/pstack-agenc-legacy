@@ -27,7 +27,7 @@ agenc plugin validate /path/to/pstack-agenc --json   # expect "success": true
 agenc skills list --json                            # pstack skills show with "origin": "plugin"
 ```
 
-With 0.19.9 the install above lists 55 skills with origin `plugin`, one per `skills/*/SKILL.md`.
+With 0.19.9 the install above lists 56 skills with origin `plugin`, one per `skills/*/SKILL.md`.
 
 ## License
 
